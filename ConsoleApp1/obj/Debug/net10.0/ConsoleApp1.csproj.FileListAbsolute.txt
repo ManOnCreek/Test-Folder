@@ -12,3 +12,4 @@ C:\Users\max.toma\Documents\Programmering slagsslop\Test Folder\ConsoleApp1\obj\
 C:\Users\max.toma\Documents\Programmering slagsslop\Test Folder\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\max.toma\Documents\Programmering slagsslop\Test Folder\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\max.toma\Documents\Programmering slagsslop\Test Folder\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\max.toma\Documents\Programmering slagsslop\Test Folder\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
